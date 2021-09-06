@@ -1,4 +1,4 @@
-# 11 Express.js: Note Taker
+# 11 note taker hw
 
 ## Your Task
 
@@ -46,6 +46,6 @@ The following images show the web application's appearance and functionality and
 GitHub:
 
 
-
+https://github.com/AdamKuemmel/note_taker_HW
 Heroku:
 https://evening-atoll-81356.herokuapp.com/
