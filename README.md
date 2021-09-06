@@ -47,5 +47,7 @@ GitHub:
 
 
 https://github.com/AdamKuemmel/note_taker_HW
+
 Heroku:
+
 https://evening-atoll-81356.herokuapp.com/
