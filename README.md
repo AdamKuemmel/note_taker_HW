@@ -35,8 +35,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 
-## Mock-Up
+## Screen shots
 
-The following images show the web application's appearance and functionality:
+The following images show the web application's appearance and functionality and the added github notes:
 <img width="1436" alt="Screen Shot 2021-09-06 at 1 41 51 PM" src="https://user-images.githubusercontent.com/85333228/132256759-9b83566b-7d0d-47fe-866f-1a568af8601c.png">
 <img width="1438" alt="Screen Shot 2021-09-06 at 1 41 18 PM" src="https://user-images.githubusercontent.com/85333228/132256770-c8d79746-752e-487a-9614-309311ca761b.png">
+
+## Deployable links
+
+GitHub:
+
+
+
+Heroku:
+https://evening-atoll-81356.herokuapp.com/
